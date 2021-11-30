@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458745641942",
+    "firebase_url": "https://powerpuff-analytics.firebaseio.com",
+    "project_id": "powerpuff-analytics",
+    "storage_bucket": "powerpuff-analytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458745641942:android:e8310eaa651c62ecd88277",
+        "android_client_info": {
+          "package_name": "com.example.powerpuff_0_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458745641942-j3bke6kij5obldboc6r1a91g4lfe06r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1E-XMm7LIlOAelWNmYt41xWGziK8Rj40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458745641942-j3bke6kij5obldboc6r1a91g4lfe06r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
